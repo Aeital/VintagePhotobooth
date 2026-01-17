@@ -27,3 +27,5 @@ Then run:
 ```bash
 python main.py
 
+Download the video to view it :)
+
