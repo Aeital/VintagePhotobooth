@@ -3,7 +3,7 @@
 A vintage-style photobooth desktop application built with Python and PyQt6.
 The app allows users to capture photos using a webcam or upload images,
 apply retro filters, and download a classic photo strip.
-
+Download the video to view it :)
 ## Features
 - Live camera capture with countdown
 - Upload images from local system
@@ -27,5 +27,5 @@ Then run:
 ```bash
 python main.py
 
-Download the video to view it :)
+
 
